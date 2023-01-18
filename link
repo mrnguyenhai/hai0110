@@ -17,7 +17,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164",VTV9
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtvCTHD" group-title="VTV" tvg-logo="https://th.bing.com/th/id/R.856c03d760c7705e94a1789361533ac3?rik=KWO%2fWbAdulBEbA&riu=http%3a%2f%2fleadmedia.vn%2fdata%2fupload%2fQu%e1%ba%a3ng+c%c3%a1o+truy%e1%bb%81n+h%c3%acnh%2fB%e1%ba%a3ng-gi%c3%a1-qu%e1%ba%a3ng-c%c3%a1o-%c4%91%c3%a0i-truy%e1%bb%81n-h%c3%acnh-VTV-C%e1%ba%a7n-Th%c6%a1-logo.jpg&ehk=y3XjepCe3MsXRFJoNhQt2AgpeVotYwyfeqwW1LgbBbw%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",VTV Cần Thơ
-https://vtsstr3.tv24.vn/elive1/smil:VTV6_HD.smil/chunklist_w2050995808_b4692000.m3u8
+https://vtsstr3.tv24.vn/elive1/smil:VTV6_HD.smil/chunklist_w1299438418_b4692000.m3u8?uid=0374d444q2b474z584x506&mytokenstarttime=1674026068&mytokenendtime=1674027268&mytokenhash=e8lNUQoVktgCCMxwHH83zEyJTC7E_DYaP259dOqPSic%3D
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",V.News
 http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/ANTV_SD_logo_fix.png/revision/latest?cb=20201026081353&path-prefix=vi",An Ninh TV
