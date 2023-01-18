@@ -17,22 +17,24 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?154494   	   	    Éº]¢ïØ˜ù²•Ò?z   
 5164",VTV9
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtvCTHD" group-title="VTV" tvg-logo="https://th.bing.com/th/id/R.856c03d760c7705e94a1789361533ac3?rik=KWO%2fWbAdulBEbA&riu=http%3a%2f%2fleadmedia.vn%2fdata%2fupload%2fQu%e1%ba%a3ng+c%c3%a1o+truy%e1%bb%81n+h%c3%acnh%2fB%e1%ba%a3ng-gi%c3%a1-qu%e1%ba%a3ng-c%c3%a1o-%c4%91%c3%a0i-truy%e1%bb%81n-h%c3%acnh-VTV-C%e1%ba%a7n-Th%c6%a1-logo.jpg&ehk=y3XjepCe3MsXRFJoNhQt2AgpeVotYwyfeqwW1LgbBbw%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",VTV Cần Thơ
+https://vtsstr3.tv24.vn/elive1/smil:VTV6_HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",V.News
 http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/ANTV_SD_logo_fix.png/revision/latest?cb=20201026081353&path-prefix=vi",An Ninh TV
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="VTV" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",NhÃ¢n DÃ¢n TV
 https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",Quá»‘c PhÃ²ng TV
+#EXTINF:-1 tvg-id="qpvnhd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",Quốc Phòng TV
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="quochoi" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quá»‘c Há»™i TV
+#EXTINF:-1 tvg-id="quochoi" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/97.png",VTVcab1 - Giáº£i TrÃ­
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn
+https://vtsstr7.tv24.vn/live/VTVcab1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/98.png",VTVcab2 - Phim Viá»‡t
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn
+https://vtsstr7.tv24.vn/live/VTVcab2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/36.png",VTVcab3 - TheThaoTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/194.png",VTVcab4 - VÄƒn HÃ³a
