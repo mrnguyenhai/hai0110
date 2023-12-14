@@ -28,3 +28,23 @@ https://vn72.byly.net/v/dau-la-dai-luc/8/playlist.m3u8
 https://de7.byly.net/v/dau-la-dai-luc/9/playlist.m3u8
 #EXTINF:-1 tvg-id="Tập 10" group-title="Đấu La Đại Lục" tvg-logo="https://live.staticflickr.com/65535/51652051425_4c4b23cd10_w.jpg", Tập 10
 https://us7.byly.net/v/dau-la-dai-luc/10/playlist.m3u8
+#EXTINF:-1 tvg-id="Tập 11" group-title="Đấu La Đại Lục" tvg-logo="https://live.staticflickr.com/65535/51652051425_4c4b23cd10_w.jpg", Tập 11
+https://us21.hhvui.com/v/dau-la-dai-luc/11/playlist.m3u8
+#EXTINF:-1 tvg-id="Tập 12" group-title="Đấu La Đại Lục" tvg-logo="https://live.staticflickr.com/65535/51652051425_4c4b23cd10_w.jpg", Tập 12
+https://us21.hhvui.com/v/dau-la-dai-luc/12/playlist.m3u8
+#EXTINF:-1 tvg-id="Tập 13" group-title="Đấu La Đại Lục" tvg-logo="https://live.staticflickr.com/65535/51652051425_4c4b23cd10_w.jpg", Tập 13
+https://us21.hhvui.com/v/dau-la-dai-luc/13/playlist.m3u8
+#EXTINF:-1 tvg-id="Tập 14" group-title="Đấu La Đại Lục" tvg-logo="https://live.staticflickr.com/65535/51652051425_4c4b23cd10_w.jpg", Tập 14
+https://us21.hhvui.com/v/dau-la-dai-luc/14/playlist.m3u8
+#EXTINF:-1 tvg-id="Tập 15" group-title="Đấu La Đại Lục" tvg-logo="https://live.staticflickr.com/65535/51652051425_4c4b23cd10_w.jpg", Tập 15
+https://us21.hhvui.com/v/dau-la-dai-luc/15/playlist.m3u8
+#EXTINF:-1 tvg-id="Tập 16" group-title="Đấu La Đại Lục" tvg-logo="https://live.staticflickr.com/65535/51652051425_4c4b23cd10_w.jpg", Tập 16
+https://us21.hhvui.com/v/dau-la-dai-luc/16/playlist.m3u8
+#EXTINF:-1 tvg-id="Tập 17" group-title="Đấu La Đại Lục" tvg-logo="https://live.staticflickr.com/65535/51652051425_4c4b23cd10_w.jpg", Tập 17
+https://us21.hhvui.com/v/dau-la-dai-luc/17/playlist.m3u8
+#EXTINF:-1 tvg-id="Tập 18" group-title="Đấu La Đại Lục" tvg-logo="https://live.staticflickr.com/65535/51652051425_4c4b23cd10_w.jpg", Tập 18
+https://us21.hhvui.com/v/dau-la-dai-luc/18/playlist.m3u8
+#EXTINF:-1 tvg-id="Tập 19" group-title="Đấu La Đại Lục" tvg-logo="https://live.staticflickr.com/65535/51652051425_4c4b23cd10_w.jpg", Tập 19
+https://us21.hhvui.com/v/dau-la-dai-luc/19/playlist.m3u8
+#EXTINF:-1 tvg-id="Tập 20" group-title="Đấu La Đại Lục" tvg-logo="https://live.staticflickr.com/65535/51652051425_4c4b23cd10_w.jpg", Tập 20
+https://us21.hhvui.com/v/dau-la-dai-luc/20/playlist.m3u8
